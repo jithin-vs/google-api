@@ -1,0 +1,7 @@
+const prompt =`Analyze the following image and provide a detailed description of what is depicted in it. Additionally, based on the visual elements, infer and describe the climate characteristics present in the image. Consider factors such as vegetation, weather conditions, presence of water bodies, and any other relevant environmental indicators.
+
+Your response should include:
+1.A detailed description of the scene, including the main subjects, objects, and any notable activities.
+2.An assessment of the climate, mentioning aspects like temperature, humidity, precipitation, and season if possible.
+Please provide as much detail as possible.
+Please format your response in JSON .`
